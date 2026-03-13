@@ -168,9 +168,9 @@ The controller determines how each player question affects the suspect.
 
 # Agent Tools
 
-![Agent Tools](presentation/images/tools.png)
-
 The agent uses several tools:
+
+![Agent Tools](presentation/images/similarity.png)
 
 **evaluate_question**
 
