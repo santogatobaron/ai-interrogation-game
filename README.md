@@ -16,6 +16,8 @@ Not just as tools for generating content, but as systems that could enable **ent
 
 The first area that came to mind was **narrative and dialogue**. Video game storytelling can be incredible, but when it comes to moment-to-moment dialogue, we’ve historically relied on fairly **deterministic systems**: dialogue trees, branching paths, predefined responses. They can be deep and complex, but they’re still fundamentally scripted.
 
+![gialogue](presentation/images/hook.png)
+
 In most games, mechanics require very controlled inputs to work properly: dialogue options, keywords, predefined actions. Language, by contrast, is messy, ambiguous and open-ended, which is why it has rarely been used directly as a gameplay input.
 
 Additionally, traditional dialogue systems inevitably limit the player's **self-expression**.
@@ -129,7 +131,7 @@ Different strategies affect the suspect’s behavior.
 
 # System Architecture
 
-![System Architecture](images/breakdown.png)
+![System Architecture](presentation/images/breakdown.png)
 
 The system is built as an **AI-driven interrogation loop** combining:
 
@@ -166,7 +168,7 @@ The controller determines how each player question affects the suspect.
 
 # Agent Tools
 
-![Agent Tools](images/tools.png)
+![Agent Tools](presentation/images/tools.png)
 
 The agent uses several tools:
 
@@ -224,7 +226,7 @@ Pressure full → interrogation fails
 
 # Dataset & Preprocessing
 
-![Preprocessing Pipeline](images/preprocess.png)
+![Preprocessing Pipeline](presentation/images/preprocess.png)
 
 The dataset is built from the full interrogation transcript of the Lazarus case.
 
