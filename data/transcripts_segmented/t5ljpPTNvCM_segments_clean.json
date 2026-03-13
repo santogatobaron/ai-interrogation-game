@@ -1,0 +1,2792 @@
+[
+  {
+    "segment_id": "seg_0000",
+    "speaker": "detective",
+    "text": "Nice to meet you. Uh, well, have a seat. ",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0001",
+    "speaker": "suspect",
+    "text": "Nice to see you guys. How's it going? What is this? Is this a…",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0002",
+    "speaker": "detective",
+    "text": "I didn't want to bring this up in your squadron.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0003",
+    "speaker": "suspect",
+    "text": "Oh, no. It's fine. I think we're good.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0004",
+    "speaker": "detective",
+    "text": "Yeah. Well, explain the whole thing, too. I don't want to talk about this in the squadron because I don't know who people are listening. And if we go to my side, everybody's always wondering what everybody else is doing.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0005",
+    "speaker": "suspect",
+    "text": "Okay.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0006",
+    "speaker": "detective",
+    "text": "But uh like we're talking about being busy and stuff, we've been assigned a case that we've been looking at.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0007",
+    "speaker": "suspect",
+    "text": "Okay.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0008",
+    "speaker": "detective",
+    "text": "It's a new case and reviewing the case. There's some notes to see as far as your name being mentioned.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0009",
+    "speaker": "suspect",
+    "text": "Okay. ",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0010",
+    "speaker": "detective",
+    "text": "Do you know John Ruten? John. John Rutton. Rutton. Rutten.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0011",
+    "speaker": "suspect",
+    "text": "Oh yeah, I went to school with him.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0012",
+    "speaker": "detective",
+    "text": "You did?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0013",
+    "speaker": "suspect",
+    "text": "Yeah. ",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0014",
+    "speaker": "detective",
+    "text": "How long did you know him?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0015",
+    "speaker": "suspect",
+    "text": "Gosh, I went to school in um let's see, went to UCLA in 1978. They started and um you know met him at school at the dorms.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0016",
+    "speaker": "detective",
+    "text": "Mhm. Um were you guys friends? Close friends?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0017",
+    "speaker": "suspect",
+    "text": "Yeah, we're very close friends. I mean, what's this all about?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0018",
+    "speaker": "detective",
+    "text": "Well, it's regarding it's a case we're working on. It involves John and in there some of the statements we we reviewed uh you know, there's notes and stuff that that he knew you and stuff.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0019",
+    "speaker": "suspect",
+    "text": "Oh, yeah. I mean, we good friends. Um lived in the dorms for I lived in the dorms for 2 years.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0020",
+    "speaker": "detective",
+    "text": "Um, you guys lived in the same dorm?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0021",
+    "speaker": "detective",
+    "text": "Okay. Were you guys just friends or anything else or?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0022",
+    "speaker": "suspect",
+    "text": "Yeah, we were we were good friends.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0023",
+    "speaker": "detective",
+    "text": "Yeah. Was there any relationship or anything that developed between you guys?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0024",
+    "speaker": "suspect",
+    "text": "Yeah, I mean, we dated.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0025",
+    "speaker": "detective",
+    "text": "Uh Uh-huh. you know.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0026",
+    "speaker": "suspect",
+    "text": "Um I mean, is what's this all about?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0027",
+    "speaker": "detective",
+    "text": "Well, it's relating to uh his wife.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0028",
+    "speaker": "suspect",
+    "text": "Okay.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0029",
+    "speaker": "detective",
+    "text": "Okay. Did you know her?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0030",
+    "speaker": "suspect",
+    "text": "Not really. I mean, I knew that he got married years ago.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0031",
+    "speaker": "detective",
+    "text": "Uh-huh. Did you ever meet her?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0032",
+    "speaker": "suspect",
+    "text": "God, I don't know. ",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0033",
+    "speaker": "detective",
+    "text": "Um, do you know who she was or anything?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0034",
+    "speaker": "suspect",
+    "text": "Well, I Let me think. God, it's been a long time ago.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0035",
+    "speaker": "suspect",
+    "text": "Um Um, you know, I may have met her.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0036",
+    "speaker": "suspect",
+    "text": "Um, jeez. You know.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0037",
+    "speaker": "detective",
+    "text": "Uh, well, let me see. Let me ask you. You said you you dated John. How long did you guys date?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0038",
+    "speaker": "suspect",
+    "text": "I mean, well, are you guys is this something I mean, you said I was going to interview somebody about art and how you guys are",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0039",
+    "speaker": "detective",
+    "text": "Here's I mean, Stephanie, here's the situation is basically we, you know, we knew that this when we saw this in the in in this chrono that maybe, you know, there was some relationship there. That's what the chrono seemed to indicate. And we didn't want to come up to you at your desk and ask those kinds of questions or do anything. you know how up there people can see what's going on if you go into an interview room or people are in there getting supplies.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0040",
+    "speaker": "detective",
+    "text": "So we we wanted to afford you some privacy, some confidentiality to talk about this because we thought it might be you know something you know you're married to someone else obviously and so forth and that you may not want to you know talk about these things in that setting where someone you know we don't want the rumor mill or gossip or any of that kind of stuff.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0041",
+    "speaker": "suspect",
+    "text": "That's fine.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0042",
+    "speaker": "detective",
+    "text": "I mean, so we did this just as as a means to try and speak to you in just a confidential place where you you know where where your business isn't out there for other people in you know your division.",
+    "phase": 0
+  },
+  {
+    "segment_id": "seg_0043",
+    "speaker": "suspect",
+    "text": "I mean, you know, God, that's been a million years ago. I mean, you know, um what year is it now?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0044",
+    "speaker": "detective",
+    "text": "2009.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0045",
+    "speaker": "suspect",
+    "text": "I mean, I graduated in ' 82.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0046",
+    "speaker": "detective",
+    "text": "82.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0047",
+    "speaker": "suspect",
+    "text": "Yeah. Um, you know, we dated um I dated other guys. I'm sure he dated other girls.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0048",
+    "speaker": "detective",
+    "text": "Um Well, let me ask you roughly how long would you would you say you guys dated?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0049",
+    "speaker": "suspect",
+    "text": "Oh jeez. Um, I couldn't even say. I mean, I started school there in 78. I started UCLA 1978. I graduated in ' 82.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0050",
+    "speaker": "detective",
+    "text": "Um, I don't even remember what year he graduated, if it was a year or two before me.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0051",
+    "speaker": "suspect",
+    "text": "Okay.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0052",
+    "speaker": "detective",
+    "text": "Um, I think he was a little bit older than I was.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0053",
+    "speaker": "suspect",
+    "text": "I mean, you know, I can't remember if he was born, let's say, I was born in 60, 1960. I don't know if he was born in 58 or 59.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0054",
+    "speaker": "suspect",
+    "text": "I mean, I, you know, um I mean, I knew his parents. I knew his sister. His brother went to Northridge.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0055",
+    "speaker": "suspect",
+    "text": "Um um you know, his sister spent the night at my house before.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0056",
+    "speaker": "suspect",
+    "text": "Obviously, I spent the night at his house before.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0057",
+    "speaker": "suspect",
+    "text": "He probably spent the night at my house before.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0058",
+    "speaker": "suspect",
+    "text": "Um, you know, I you know, I don't know",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0059",
+    "speaker": "detective",
+    "text": "Well, correct me if I'm wrong, cuz from what you're telling me is you guys dated while you were in college together, right?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0060",
+    "speaker": "suspect",
+    "text": "Yeah.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0061",
+    "speaker": "suspect",
+    "text": "And probably after college.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0062",
+    "speaker": "suspect",
+    "text": "Um, I can't jeez.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0063",
+    "speaker": "suspect",
+    "text": "Um, trying to think when I met my husband.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0064",
+    "speaker": "suspect",
+    "text": "I met my husband in when did I meet Scott?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0065",
+    "speaker": "suspect",
+    "text": "Um, let's see. I was teaching DARE because I met Scott when I was teaching DARE up in Oregon.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0066",
+    "speaker": "suspect",
+    "text": "But we had long stopped, you know, dating before that.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0067",
+    "speaker": "detective",
+    "text": "So, you haven't talked to him for a long time?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0068",
+    "speaker": "suspect",
+    "text": "Oh, I I think I haven't talked to him in a long time.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0069",
+    "speaker": "suspect",
+    "text": "Um, I couldn't even tell you when the last time I talked to him.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0070",
+    "speaker": "suspect",
+    "text": "Um, I met Scott, I'm thinking in '92, maybe. Um, April of '92. ",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0071",
+    "speaker": "suspect",
+    "text": " Yeah. I'm trying to think. I was teaching DARE. Let's see. What year is this? This is We'll be married. I got married in 1996. I think I met Scott in '92. Prior to that, I couldn't tell you how long I had talked, you know, talked to John prior to that.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0072",
+    "speaker": "detective",
+    "text": "But since you since you met your husband, Scott, you haven't talked to him?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0073",
+    "speaker": "suspect",
+    "text": " I mean, he may have called me uh once or twice before we got married, right? Um, you know, gez, I I lived I moved to see me in 1994 because I lost my house in the earthquake. Oh. Um, uh, quite honestly, I probably keep in contact with a few people from the dorms. We, we all, we all lived on the 10th floor. Um, and, um, there's about three or four people I keep in contact with. There's probably like six or eight of us that were all really close.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0074",
+    "speaker": "detective",
+    "text": "And who are those people?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0075",
+    "speaker": "suspect",
+    "text": "Oh, jeez. Um, Diana Basta. um the people I still keep I I haven't been in contact with her in a long time.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0076",
+    "speaker": "suspect",
+    "text": "Um I mean what you know what's what's I mean what's this all about?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0077",
+    "speaker": "detective",
+    "text": "I mean well let me ask you what ended the relationship between you and John girlfriend. Um we just we dated. We did things. cuz I played sports in college. He played basketball. His brother played basketball. Um, we just, you know, it just didn't work out. I mean, I don't know what to tell you. It was like I went out with other guys. Um, saw other guys. I went on lots of vacations.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0078",
+    "speaker": "suspect",
+    "text": "It was kind of a weird relationship. I mean we we we dated. Um I can't say that he was my boyfriend. I don't know that he would consider me his girlfriend. Um we just we dated. We did things. cuz I played sports in college. He played basketball. His brother played basketball. Um, we just, you know, it just didn't work out. I mean, I don't know what to tell you. It was like I went out with other guys. Um, saw other guys. I went on lots of vacations.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0079",
+    "speaker": "detective",
+    "text": "Um, you know, and and once you guys split, were you guys still friends or kind of, you know, problems? Is it friendly? Not friendly?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0080",
+    "speaker": "suspect",
+    "text": "No, I don't think it was not friendly. I mean, we were friendly. Um, uh, I know that we went to Hawaii um, at one point. Um, another friend of mine who's actually dying right now, uh, was went to Hawaii with us, um, at some point.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0081",
+    "speaker": "detective",
+    "text": "Um, remember roughly when that was?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0082",
+    "speaker": "suspect",
+    "text": "Oh jeez. Um, let me think. I'd have to check my pictures. Um or I'd say I'd ask Greg, but my friend Greg is like dying of liver cancer right now.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0083",
+    "speaker": "detective",
+    "text": "Had you ever met his wife?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0084",
+    "speaker": "suspect",
+    "text": "I may have",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0085",
+    "speaker": "detective",
+    "text": "Do you know do you remember her name or anything or um um or what she did for a living or where she worked or anything about her?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0086",
+    "speaker": "suspect",
+    "text": "Well, I think she... I'm going to say I think she was a nurse.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0087",
+    "speaker": "suspect",
+    "text": "Um, man, I can't even remember how he he said he met her. Uh, yeah. I mean, I I Yeah, I mean, it's been so long ago.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0088",
+    "speaker": "detective",
+    "text": "Well, let me ask you, did you go to their wedding?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0089",
+    "speaker": "suspect",
+    "text": "You know, no, I didn't go to their wedding. Um, no, I don't did not go to their wedding. Um, couldn't even tell you what year we got married. I mean, you know, it's it's been a million years ago.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0090",
+    "speaker": "detective",
+    "text": "Do you ever remember if you ever talked to her? cuz it seems like a lot of you who were at at the school at UCLA, you guys kind of were friends during and after school. So, I don't know if you guys still associated afterwards when once he was married or anything with him.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0091",
+    "speaker": "suspect",
+    "text": "Yeah. No, I don't think so. I mean, I would say, you know, the the people that were on the dorm floor, we'd have we'd have gettogethers. Um there's probably like four or five. I don't think he ever came. Um, yeah. I don't think No, there was there was like it was mostly girls, you know. Um, girl named Smeita Diane. Um, there's there's two Dian's, but the one Diane, I don't think she ever came. I kind of lost contact with her. We were good friends on the floor.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0092",
+    "speaker": "suspect",
+    "text": "Um, yeah. I mean, I don't you know, again, I I mean, what you know, I don't understand why you're talking about some guy I dated a million years ago.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0093",
+    "speaker": "detective",
+    "text": "Well, do you know what happened to his wife?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0094",
+    "speaker": "suspect",
+    "text": "Yeah, I know. She got killed.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0095",
+    "speaker": "detective",
+    "text": "What did you What did you hear about that?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0096",
+    "speaker": "suspect",
+    "text": "I I saw a poster at work. Um I'm sure I spoke to him about it. Um I think I spoke to another friend of his about it.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0097",
+    "speaker": "detective",
+    "text": "Um and how did how did you first learn about that?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0098",
+    "speaker": "suspect",
+    "text": "Jeez. Someone could have called me. I could heard it at work. Um I think at one point there may have been a flyer or something. I know a good friend of his",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0099",
+    "speaker": "detective",
+    "text": "Were you on the job back then when that happened?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0100",
+    "speaker": "suspect",
+    "text": "Yeah, I think so. Yeah, I'm sure I was on the job. That's who I would have heard about it with the flyer.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0101",
+    "speaker": "suspect",
+    "text": "Um he had a good friend, Mike Buldrick. Mike um anyways, a he may have lived in the dorms. I don't remember if that's how I met him.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0102",
+    "speaker": "suspect",
+    "text": "Um I I may have talked to him. I mean, you know, I don't remember how I heard. I mean, I don't even remember what year it was.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0103",
+    "speaker": "suspect",
+    "text": "And you think you you thought you said you thought his wife was a nurse. Do you have any idea where she was working at the time or did he ever mention that to you? Was it a hospital or a doctor's office?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0104",
+    "speaker": "detective",
+    "text": "I'm sure he must have mentioned it now. Now that you're bringing that up, I think she worked at a hospital somewhere.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0105",
+    "speaker": "suspect",
+    "text": "And yeah, I may have met her at a hospital. Um I may have talked to her once or twice. um at a at a hospital or more um you",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0106",
+    "speaker": "detective",
+    "text": "know but being that you were kind of you used to see uh John you know was it everything okay between you guys? I mean there wasn't every anything uncomfortable or anything between you and her?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0107",
+    "speaker": "suspect",
+    "text": "Um you know I don't know. I mean it's God it's been so many years. I mean, uncomfortable. I mean, I can't even I can't even remember if we had a conversation. I mean, we may have I may have I may have seen her at his apartment, you know. Jeez, how many years ago was that? I don't even know what year she, you know, got killed.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0108",
+    "speaker": "detective",
+    "text": "Where was his apartment?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0109",
+    "speaker": "suspect",
+    "text": "On Rosco.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0110",
+    "speaker": "detective",
+    "text": "Okay. Yeah. Rosco in um um east or west of do uh either east or west of Dodto. Do you know where he moved after did he move after he got married or do you know or I'm sure he did. Did you know where he was living or somewhere in the valley? Did you ever visit him and his wife?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0111",
+    "speaker": "suspect",
+    "text": "No. No. never went out, you know, get together, dinners, anything of that nature.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0112",
+    "speaker": "suspect",
+    "text": "Like I said, his sister used to come over. His sister had had come to my place. I knew his I knew his brother cuz his brother played basketball at Northridge. Um, in fact, I was just coming across some pictures that I just scan uh scanned from um I take a lot of photos. Um like 10,000. And I just did a service where I scanned everything. Um, and I'd seen some pictures of his brother playing basketball.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0113",
+    "speaker": "detective",
+    "text": "You just put them all on your computer so you could have them accessible and do things with them.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0114",
+    "speaker": "suspect",
+    "text": "Well, my partner is a big photo thing and he had a deal to scan. So, I spent a ton of time just scanning photos. I mean, I paid a company to do it. Mhm. Um, so I've got photos of I mean his brother, his sister, you know, 10,000 pictures.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0115",
+    "speaker": "detective",
+    "text": "Oh, yeah. How long did that take them?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0116",
+    "speaker": "suspect",
+    "text": "Months.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0117",
+    "speaker": "detective",
+    "text": "Now, what what do they do they put that on a I'm just curious myself. And they put it on they get get all on one DVD. They don't need like a hard drive or anything.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0118",
+    "speaker": "suspect",
+    "text": "No, no, there's like I think 11 DVDs.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0119",
+    "speaker": "suspect",
+    "text": "Yeah. I haven't even I don't even have time.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0120",
+    "speaker": "detective",
+    "text": "Oh, they It's a series of DVDs that they put them on.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0121",
+    "speaker": "suspect",
+    "text": "Oh, yeah. Okay. Yeah. I mean, I got I'm not that familiar with computer stuff, so that's why I was asking. It's like 11 DVDs.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0122",
+    "speaker": "detective",
+    "text": "Oh, okay. So, you know, um I haven't had a chance to go through them.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0123",
+    "speaker": "suspect",
+    "text": "I I You could go through and pick which ones you don't want. I don't have time to do that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0124",
+    "speaker": "detective",
+    "text": "Right. you know, so so like you said, did I, you know, I I don't think we ever socialized.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0125",
+    "speaker": "suspect",
+    "text": "Um, you know, he'd still call me.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0126",
+    "speaker": "suspect",
+    "text": "Um, I can't say that I would I mean, if he's married, I don't know that I would have called him. I mean, maybe. Who knows? I you know, I I don't know. It's been a million years ago.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0127",
+    "speaker": "detective",
+    "text": "How long was John married before his wife died?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0128",
+    "speaker": "suspect",
+    "text": "I couldn't I have no idea. I have no idea.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0129",
+    "speaker": "detective",
+    "text": "And uh after his wife died, did did you talk to him again or or anything?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0130",
+    "speaker": "suspect",
+    "text": "Yeah. I mean, I did talk to him. I talked to him. Probably his parents. Um, probably some other friends. Um, you know, I'm sure I talked to him.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0131",
+    "speaker": "detective",
+    "text": "Yeah.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0132",
+    "speaker": "detective",
+    "text": "Um, but you you don't you're not sure where he moved to after he got married?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0133",
+    "speaker": "suspect",
+    "text": "No idea. I mean, never went over to to visit him or I don't think I mean, I don't think so.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0134",
+    "speaker": "suspect",
+    "text": "I mean, um I don't know. I don't I mean, I don't think I did.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0135",
+    "speaker": "suspect",
+    "text": "Um, I mean I know he lived on Rosco for a long long time.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0136",
+    "speaker": "suspect",
+    "text": "Um, I mean he I may know I mean he may have told me where they lived somewhere in the valley. I mean he may have said I lived over such and such but I I couldn't tell you specifically where.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0137",
+    "speaker": "detective",
+    "text": "But you don't remember specifically ever going over to visit him or visit them at where wherever he moved when he left Rosco?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0138",
+    "speaker": "suspect",
+    "text": "I I I honestly I don't know. I don't think so.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0139",
+    "speaker": "suspect",
+    "text": "But okay, you know, I don't want to say no, I don't think so. And then he says, \"Oh, yeah, she came over for something. Drop something off.\" You know, I'm I don't know.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0140",
+    "speaker": "detective",
+    "text": "So, if you did go over there, it just be like a a quick thing like like you're saying, \"Drop something off or maybe?\"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0141",
+    "speaker": "detective",
+    "text": "Um, but you don't remember as far as like going there to have dinner or like a social anything at the house, party?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0142",
+    "speaker": "suspect",
+    "text": "Well, if you guys know something, I I just I can't I don't know. I don't think so.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0143",
+    "speaker": "detective",
+    "text": "I mean, but after uh John's wife died and you said you may have been talking to him. Did uh your relationship start up again?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0144",
+    "speaker": "suspect",
+    "text": "I would say no.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0145",
+    "speaker": "detective",
+    "text": "Um again, can you give me a year?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0146",
+    "speaker": "suspect",
+    "text": "I mean, this is like 2009. She died in 1986.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0147",
+    "speaker": "detective",
+    "text": "Yeah, I think it was 86.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0148",
+    "speaker": "suspect",
+    "text": "1986. Okay.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0149",
+    "speaker": "detective",
+    "text": "Um, like I said, I'm I'm faintly remembering that um I went to Hawaii with my friend Greg. Greg and I got certified for scuba diving.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0150",
+    "speaker": "suspect",
+    "text": "Um, and I'm thinking that John met us there, meaning Greg and I.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0151",
+    "speaker": "suspect",
+    "text": "Um, that could have been I got certified toward the end of 88 or I mean 20 yeah 88 89 um cuz I got recertified again and it had been like over 10, 10 years.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0152",
+    "speaker": "suspect",
+    "text": "So I got certified my husband and I got certified.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0153",
+    "speaker": "suspect",
+    "text": "Um, and I'm pretty sure that John met us there.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0154",
+    "speaker": "suspect",
+    "text": "Um, again, I'd have to tell you what year it was. I'd have to look at my pictures.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0155",
+    "speaker": "suspect",
+    "text": "Um, you know, um, and other than that, I can't even say he may have called me, you know, at my home.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0156",
+    "speaker": "suspect",
+    "text": "Um, I may have called him. Um, I don't think he got together with our group. Um, I don't think Pat's his wife's desk. Uh even before I don't you know we went to weddings together. I you know did you I've got pictures I like I said I couldn't tell you years. It's been a million years ago after he after he got uh married or whatever. Were you were you dating anybody in particular let what year? 1986 you said I think he got married in around 8586 something like that. Were you seeing anyone seriously or?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0157",
+    "speaker": "suspect",
+    "text": "God, I couldn't say. Um, geez, I'm trying to think. I mean, um, you know, I dated a fireman. Um, what was his name? Mike Art. Um, and I'm trying to think. Was he LFD or He was LFD. Um, I'm trying to think when I went I probably met Mike. I went to Devincshire. Let's see. I left Hollywood in 80. I I worked Hollywood 84 to 85 I think and then I went to Devonshire and that's when I met Mike um and some other firemen and what the station next door?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0158",
+    "speaker": "suspect",
+    "text": "No actually cuz I used to work Hollywood so I just wonder if it was the station.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0159",
+    "speaker": "suspect",
+    "text": "No no it was in when I worked Devincure I met Mike. Oh okay. All right. And I'm trying to think. I went to Devonshire in ' 85 and I'm thinking that I would have met him probably sometime shortly after I went to Devincure cuz I met him and his I actually met his buddies at a fire. Um and then Mike and I dated, you know, just really kind of casually. Um and we remain very I mean we remain good friends.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0160",
+    "speaker": "detective",
+    "text": "Um you still in touch with him?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0161",
+    "speaker": "suspect",
+    "text": "Unfortunately, he passed away. He died in a um he had a car crash.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0162",
+    "speaker": "detective",
+    "text": "Oh, really? ",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0163",
+    "speaker": "suspect",
+    "text": "Um he did race cars and um he went heading into a wall. I couldn't tell you what year that was. Um but he passed away. He was in a coma and they pulled the uh the plug, right? Seems like uh anyway.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0164",
+    "speaker": "suspect",
+    "text": "Um, so, you know, I couldn't even tell you what what year. I'm thinking I went to Devon in 85 and I know I met the guys because I it was kind of a funny incident of how I met them and that's how I remember it was sometime probably 85 right um you know specifically I don't even know if they remember the other two are now married to somebody else cuz I kind of all three I mean did you kind of socialize like when you were out with Mike did those guys come out with you too was it kind of like did you do stuff with his friends or",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0165",
+    "speaker": "suspect",
+    "text": "Well um there were three there was two firemen Eric and Gary um I met them first, then they introduced me to Mike. So, that's how I met Mike and Mike dated. Mike Mike and I dated. Mhm.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0166",
+    "speaker": "detective",
+    "text": "So, um and and not I wouldn't even say I couldn't even tell you for how long because then it would say we decided you know it wasn't working out and we'd be better friends and you know he introduced me I think to some other guy on that who now is on LAPD.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0167",
+    "speaker": "suspect",
+    "text": "Um uh Randy Cordobus. Um, I don't think I know. He's a detective. He's got a twin brother who's on the fire department. That's how I met Randy.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0168",
+    "speaker": "suspect",
+    "text": "Um, because he had a twin brother, identical twin on the fire department.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0169",
+    "speaker": "suspect",
+    "text": "Yeah. Oh, okay. And that was um I I'm God, I'm trying to remember if Mike may have I'm trying to remember. Mike may have dated um a girl that he dated. Oh God, it sounds too weird. Um, Randy may have dated a gal that Mike was dating and that and then Mike Randy broke up with that gal. I couldn't even tell you the gal's name if I'm even thinking of the story right. And then I started dating Randy.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0170",
+    "speaker": "detective",
+    "text": "Yeah. I you know so again I mean not like I was a huge floozy or anything but",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0171",
+    "speaker": "suspect",
+    "text": "no but you know I mean a lot of times right at least from my female partners that I've had you know it's hard dating guys that aren't involved in kind of our circle right because some a lot some guys are intimidated by you know women police officers",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0172",
+    "speaker": "detective",
+    "text": "yeah Randy was like an engineer at the time uh he was like a some kind of an engineer on a truck on a rig on a fire truck",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0173",
+    "speaker": "suspect",
+    "text": "No um an engineer um oh professional engineer I think He lost a job and then came on on the department.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0174",
+    "speaker": "detective",
+    "text": "I see. So, um, getting back to some stuff, as far as you recall, after John's wife died, I did you start a relationship again with with John or dating casually or anything like that?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0175",
+    "speaker": "suspect",
+    "text": "Like I said, he met Greg and I in Hawaii.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0176",
+    "speaker": "detective",
+    "text": "Okay. Um, that was something you guys kind of planned together like go as a group or you ran into him or",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0177",
+    "speaker": "suspect",
+    "text": "No, I I think that obviously I must have talked to him and I said, \"Hey, I'm going to Hawaii with my buddy Greg. We're we're sc we're scuba we just got certified scuba diving. Um, uh, we're going to be in Hawaii. Hey, if you want to come and join us, come join us.\"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0178",
+    "speaker": "detective",
+    "text": "Right.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0179",
+    "speaker": "suspect",
+    "text": "And I I think that's what it was. Um, I I may have asked some other people to as well.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0180",
+    "speaker": "suspect",
+    "text": "Um, you know, uh, what island did we go to? I think the Big Island and Kauaii. He either met us on the Big Island or Kauaii. I'm thinking of SC Greg and I might have scuba dived a lot in on the Big Island as well as Kauaii. I'm I I don't remember which island. Again, I'd have to look at my pictures. ... on my vacations. I mean, I was always gone for at least a month. Um, and I would go places and I would either run into people or, you know, you know, meet people. Um, and Greg, this Greg we're talking about, he was like someone you were dating or just a buddy or Um, I traveled a lot um",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0181",
+    "speaker": "suspect",
+    "text": "No, you know what? I would I would say we started out um probably just buddies. Um, and either I was with somebody or he was with somebody, but it was all we it was kind of like we ended up just kind of being like brother and sister. Um, and maybe he wanted something more, but um, you know, it just it never, you know, worked out, but we we we did things together. Um, you know, I consider them I've probably known him, let's see, I've been on the job almost 26 years. I've probably known Greg 23, 24 years.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0182",
+    "speaker": "detective",
+    "text": "Um, does he still talk to him?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0183",
+    "speaker": "suspect",
+    "text": "Oh, yeah. He's dying of liver cancer right now. Yeah. Yeah. I'm sorry.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0184",
+    "speaker": "suspect",
+    "text": "Yeah. So, um, so, you know, I I consider him a good friend. Um, you know, um, you know, I don't know what to tell you on that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0185",
+    "speaker": "detective",
+    "text": "Um, I mean, when when you heard about uh John's wife being killed, I mean, what was your what was your reaction? I mean, did you thought you heard about it what through a friend or in a bulletin or something?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0186",
+    "speaker": "suspect",
+    "text": "Um I obviously I mean I called I called the family. Um I I called maybe some of his friends that that that I knew and I mean obviously it shocked you if you're if I heard it at work, you know. Um which I may have I I faintly remember a bulletin going around. Um either that or somebody called me. I I also don't remember.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0187",
+    "speaker": "suspect",
+    "text": "Um uh and then I called probably called his family. um called uh I don't initially I can't say if I initially spoke to him or not. I honestly don't remember. I may have said to somebody, \"Hey, have him call me if he wants to talk.\" And then he may have done that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0188",
+    "speaker": "detective",
+    "text": "Um you know, um do you know what the circumstances regarding her death?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0189",
+    "speaker": "suspect",
+    "text": "Jeez, let me think back.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0190",
+    "speaker": "suspect",
+    "text": "Um, jeez. I don't know if it was, you know, if it was a burglary or something.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0191",
+    "speaker": "suspect",
+    "text": "Uh, yeah, it's I mean, it's been so many years.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0192",
+    "speaker": "suspect",
+    "text": "I I mean, I can faintly think that I may have saw a flyer.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0193",
+    "speaker": "suspect",
+    "text": "May have had her picture on it, you know.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0194",
+    "speaker": "suspect",
+    "text": "That's why I say if somebody had called me, I may not have known what her last name was. I may have I mean, maybe if you told me, I would remember it.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0195",
+    "speaker": "detective",
+    "text": "Um, do you remember her first name?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0196",
+    "speaker": "suspect",
+    "text": "Shelly um Sherry I don't know something maybe you know um like I said it's been so many years and um from all the years as far as you can remember you don't do you remember ever talking to her just well I said earlier you know I I mean I may have you know I may have talked to her um I it sound I you know you mentioned a hospital maybe you may have talked to her at a hospital.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0197",
+    "speaker": "detective",
+    "text": "Yeah.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0198",
+    "speaker": "suspect",
+    "text": "Um, yeah, I may have, you know, I'm I'm thinking back now you guys are bringing up all these old memories. No, I kind of dust off the conversation, you know. I mean, jeez.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0199",
+    "speaker": "suspect",
+    "text": "Um, I'm thinking that because I mean, we would date, he would date other people, I would date other people.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0200",
+    "speaker": "suspect",
+    "text": "And I think, you know, at one point, I mean, he may have been dating her or I don't know, maybe he was married. I don't even remember.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0201",
+    "speaker": "suspect",
+    "text": "And I'm like, you know what? Why are you calling me if you're either dating her or living with her or married to her? I I cuz I honestly don't remember the time frame.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0202",
+    "speaker": "suspect",
+    "text": "Um, and I'm like, come on, knock it off.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0203",
+    "speaker": "suspect",
+    "text": "And I'm And now I'm thinking I may I may have gone to her and say, \"Hey, you know what? You know what? Is he dating you? He's he's bothering me. \"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0204",
+    "speaker": "suspect",
+    "text": "Um, and so I'm thinking that we had a conversation about that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0205",
+    "speaker": "suspect",
+    "text": "Um, one or two maybe. I, you know, it could have been three. I don't want to say I had three conversations with her like at her work or at their at their house or",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0206",
+    "speaker": "suspect",
+    "text": "No, I'm thinking that I, you know, he obviously must have told me where she worked.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0207",
+    "speaker": "suspect",
+    "text": "I'm thinking it was a hospital somewhere in LA.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0208",
+    "speaker": "suspect",
+    "text": "And I just I mean, I could have been again, what year was that? Where was I working?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0209",
+    "speaker": "detective",
+    "text": "Um, you know, I don't I don't I'm trying to think of where I when did you say they got married?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0210",
+    "speaker": "detective",
+    "text": "I don't know. I think it was like in ' 85 or '86 or something like that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0211",
+    "speaker": "suspect",
+    "text": "Yeah, we we we just kind of picked this up. We, you know, we don't know a lot about it.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0212",
+    "speaker": "detective",
+    "text": "1945.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0213",
+    "speaker": "suspect",
+    "text": "I mean, I could have been working in Hollywood, it sounds like, if if that's where I was working.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0214",
+    "speaker": "suspect",
+    "text": "Um, so I could have said, \"Okay, well, you know,\" and I went talked to her.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0215",
+    "speaker": "suspect",
+    "text": "Um, and just said, \"Hey, you know what? You know, if he's dating you, he's he's keeps calling me. Why don't you tell him to knock it off or whatever?\"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0216",
+    "speaker": "suspect",
+    "text": "And you know, because I probably would have told him to knock it off.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0217",
+    "speaker": "suspect",
+    "text": "Who would have told John?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0218",
+    "speaker": "detective",
+    "text": "Oh, yeah. I mean, I would have said, \"Hey, you know,\" and again, but you wanted to tell her, too.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0219",
+    "speaker": "suspect",
+    "text": "Um, that's during the period of time of the earthquake that you're Well, no, probably probably after Scott moved in. I think I met Scott in April of '92. Oh, okay. Right before April of '92 cuz I was I I stopped teaching DARE think I stopped teaching Dare sometime in '92. Mhm. Um, and when you and when you say that you may have um, you know, that you talked to his wife, said, \"Hey,\" or, you know, I don't know if it was I guess it wasn't his wife at that time, girlfriend or whatever. And yeah, I don't know if it was his wife or I I I mean, quite honestly, I don't even remember when you said like, \"Hey, you know, he's calling me. He needs to knock it off or what have you.\" I mean, was that was that civil? Was there I mean, oh, yeah. No, there was not. I don't think there was anything. It was the conversation lasted a few minutes. I can't even remember. And what is it like, you know, we went out to lunch or anything, right? But there was no like arguments or fights or it didn't get heated or anything like that. Not that I recall. No. I mean, I would think that would stand out. I would think. Now, again, that's not standing out in my mind.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0220",
+    "speaker": "detective",
+    "text": "Um, you know, so you didn't have any problems with her then? You didn't have any issues with her?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0221",
+    "speaker": "suspect",
+    "text": "No",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0222",
+    "speaker": "detective",
+    "text": "but let me let me ask you, seems like you didn't have any issue. Now, did she have an issue with you as far as because now you're telling her, \"Hey, you know, tell him to stop calling now.\" You know, she's like, \"Hey, you know, you figure she'd be threatened by you?\" You know, I've I don't know. I mean, from what you remember as far as when you talked to her, maybe you didn't take it as serious, but maybe, you know, did she was bugging? You mean like was she throwing things at me or something? Or",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0223",
+    "speaker": "suspect",
+    "text": "Well, no. Just, you know, as far as you're trying to explain like, \"Hey, stop calling me, you know, stop playing games.\" You know, I I tell you I if the conversation I couldn't even tell you how long the conversation if you said did it last a half an hour, did it last 3 minutes? Did it last 20 minutes? I can't even remember. It's been so long ago, you know.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0224",
+    "speaker": "detective",
+    "text": "Um you just remember talking to her, telling her",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0225",
+    "speaker": "suspect",
+    "text": "Yeah",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0226",
+    "speaker": "detective",
+    "text": "And that's why you said how many times you talked to her. ",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0227",
+    "speaker": "suspect",
+    "text": "I don't know how many times I talked to her. Maybe it was once, maybe it was twice, maybe it was three times, you know. I I honestly don't know. Um I I don't know what year it was. Um, if you if he said, \"I met her in such and such year,\" I'd go, \"Okay.\" Well, I don't even know what year he met her.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0228",
+    "speaker": "suspect",
+    "text": "Um, I graduated from, you see, in 1982. Okay. I graduated in ' 82. Like I said, I don't know if he graduated. I know he was a little older than I was. So, I don't know if he graduated a year before or two years before because people are on different um either on the four-year program or the 5-year program.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0229",
+    "speaker": "detective",
+    "text": "Um, what year did you come on the job?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0230",
+    "speaker": "suspect",
+    "text": "83. Oh, so almost pretty much immediately after you got out of school. Yeah, I worked at a law firm for a year. Um, and then came on the job. But anyway, in regards to seeing him, not seeing him, we went to friends weddings that were, you know, from UCLA. Um, I may have gone to some of his friends weddings from where he worked. Um, he may have gone to things with me, you know.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0231",
+    "speaker": "suspect",
+    "text": "Um, you know, I mean, I I don't know how many times we went to do things, you know, or didn't do things, right? Like I said, his sister, um, um, I know his sister, uh, his brother, his sister, I know, stayed at my townhouse a number of times. I couldn't tell you how many times, right?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0232",
+    "speaker": "suspect",
+    "text": "Um, I would watch his brother, you know, shoot, uh, take pictures at a basketball game or or two. Where was your townhouse at?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0233",
+    "speaker": "suspect",
+    "text": "In Granada Hills. Um, below the Odyssey. I don't know. Oh, I'm sorry. The 405 and the five. Um, the 405 the the 405 turns into the five, the 118. Um, they they came down in the earthquake.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0234",
+    "speaker": "detective",
+    "text": "Okay. So, Okay. And you're saying when you went to see her, do you would you remember if it was at her house or at the place she worked at?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0235",
+    "speaker": "suspect",
+    "text": "No, I'm thinking that I'm thinking that it was probably for some reason I want to say that the hospital seemed that, you know, if you say he got married in 85 or something, I'm thinking that, you know, maybe the hospital was on my way to work in Hollywood. I mean, that's kind of sounding familiar",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0236",
+    "speaker": "detective",
+    "text": "Um, would you have gone on duty?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0237",
+    "speaker": "suspect",
+    "text": "Oh, no. I'm I'm sure I wouldn't have. I No, I'm I'm pretty good about not doing stuff, you know. I mean, now I'm not saying that, you know, you haven't done stuff on duty, but I I I would have I mean, I would have been working with somebody.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0238",
+    "speaker": "suspect",
+    "text": "Oh, yeah. You know, so I wouldn't I wouldn't think I mean, I try to avoid doing stuff on duty.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0239",
+    "speaker": "detective",
+    "text": "So, so you would have gone if it was in route to work, you more than likely you would have gone to her work and had this discussion with her. I mean, that's sounding familiar. I mean, that's now that you guys are bringing this stuff up.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0240",
+    "speaker": "suspect",
+    "text": "Um, I mean, it sound that sounds familiar. Um, but again, I mean, you know, what's I mean, what's this got to do with me dating him and, you know, her getting killed? I mean, I I don't, you know, I don't have anything to do with it.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0241",
+    "speaker": "suspect",
+    "text": "And you got something that's somebody said, you know, whatever.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0242",
+    "speaker": "detective",
+    "text": "I mean, well, like we said, we we just literally got this the other day and and you're going through it.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0243",
+    "speaker": "suspect",
+    "text": "Yeah. And you see, you saw me say, \"Oh, it's Nick's next door.\" Right.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0244",
+    "speaker": "detective",
+    "text": "And and so, you know, I mean, obviously, it's like we recognize the name. We know, you know, you work next door to us and so we're trying to get some background. We're trying to figure this out.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0245",
+    "speaker": "suspect",
+    "text": "I mean, this is from a long time ago.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0246",
+    "speaker": "detective",
+    "text": "Oh, I know. You know, and and things have been kind of slow for us and so, you know, Chief Beck has said, \"Hey, you know, I want you guys working. I don't want you just sitting around reading the paper.\"",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0247",
+    "speaker": "detective",
+    "text": "So, he's kind of pushing some older cases out even to the guys that work active cases because, you know, and so we see this and we're just like, \"Oh, well, you know, we want to talk to you about it.\"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0248",
+    "speaker": "detective",
+    "text": "But, of course, the only reason we did it here is because we're getting into some pretty personal stuff in your relationship.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0249",
+    "speaker": "suspect",
+    "text": "You know, my my husband's on the job and we've been married. You know, we don't want to take the risk. We don't want to take the risk.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0250",
+    "speaker": "detective",
+    "text": "We're in one of those interview rooms and even when the door closed, someone's going to get supplies and see us on a monitor here or whatever.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0251",
+    "speaker": "suspect",
+    "text": "I appreciate it. I mean, I appreciate, like I said, that's where people go when there's orals, you know, when they're doing orals, guys will go in there and try and watch. What are the answers to the questions, you know?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0252",
+    "speaker": "detective",
+    "text": "I didn't know that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0253",
+    "speaker": "suspect",
+    "text": "Yeah. So, so we just we just want to afford you the most privacy and confidentiality we could.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0254",
+    "speaker": "detective",
+    "text": "No, I appreciate and like I said, I mean this goes way back and I mean it was very sad, you know, obviously um I I haven't I you know I when we were in college, some of us would go down to his house in San Diego.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0255",
+    "speaker": "suspect",
+    "text": "I I went down to his house with him, you know, um with with him.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0256",
+    "speaker": "detective",
+    "text": "And I know I I'm trying to think of some other people that may have gone down.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0257",
+    "speaker": "suspect",
+    "text": "Is that where he grew up? Is down there?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0258",
+    "speaker": "detective",
+    "text": "Yeah, down in San Diego.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0259",
+    "speaker": "suspect",
+    "text": "Okay. Um I know his dad's was a professor at San Diego State. I don't know if he still is.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0260",
+    "speaker": "detective",
+    "text": "Mhm.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0261",
+    "speaker": "suspect",
+    "text": "Um I don't know what happened to his sister. Don't know what happened to his brother.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0262",
+    "speaker": "detective",
+    "text": "Um, you know, I'm sure his dad's probably retired by now. He was I think older.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0263",
+    "speaker": "detective",
+    "text": "Um even back then, right?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0264",
+    "speaker": "suspect",
+    "text": "Um and I I can't even tell you the last time I had any contact with any of them. It's been so long.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0265",
+    "speaker": "detective",
+    "text": "Did he tell you what happened? Like what he heard from the detectives or the police or",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0266",
+    "speaker": "detective",
+    "text": "You know what? He may have um for some reason I'm thinking that I mean again this is like drugs or something.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0267",
+    "speaker": "suspect",
+    "text": "I mean I think I faintly remember him mentioning something maybe about cocaine um that she was involved with that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0268",
+    "speaker": "detective",
+    "text": "You know, I don't know that he said she was involved or they thought she, you know, again, it's been so long.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0269",
+    "speaker": "suspect",
+    "text": "I, you know, he could have mentioned, he could have told me the whole story of what happened.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0270",
+    "speaker": "detective",
+    "text": "And I mean, like I said, I'm faintly remember either between him or the flyer.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0271",
+    "speaker": "suspect",
+    "text": "Um, that there was some kind of a burglary.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0272",
+    "speaker": "detective",
+    "text": "Um, you know, let me ask, did the detectives ever reach out to you ever?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0273",
+    "speaker": "suspect",
+    "text": "No. No one's ever talked to me. I don't think anybody ever talked to me about about him.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0274",
+    "speaker": "detective",
+    "text": "Um, it seems like back.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0275",
+    "speaker": "suspect",
+    "text": "Well, I I take I'm thinking that I did talk to a detective.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0276",
+    "speaker": "detective",
+    "text": "Um, God Well, what division was it in Van Ice?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0277",
+    "speaker": "suspect",
+    "text": "And where was I working? Um, 1986. I would have been working Devonshire.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0278",
+    "speaker": "detective",
+    "text": "You know, I'm thinking that I did speak to somebody.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0279",
+    "speaker": "suspect",
+    "text": "Oh, really?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0280",
+    "speaker": "detective",
+    "text": "I couldn't tell you who it was because it doesn't it doesn't say anything.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0281",
+    "speaker": "suspect",
+    "text": "Probably on the phone.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0282",
+    "speaker": "detective",
+    "text": "Okay.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0283",
+    "speaker": "suspect",
+    "text": "Um would it have been somebody in regards to this or just",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0284",
+    "speaker": "suspect",
+    "text": "Um, yeah. I I know before I busted my leg up, I was there in '98 cuz that year sticks out because I had a really bad leg injury. Um, and I was there prior to that, but I couldn't tell you what year. It was just a few years. I made detective I think in 93 93. So, um, I was at Van Eis and then I went back and then I had a leg injury and then they transferred me to Devonshire cuz I couldn't drive. Mhm. I couldn't drive very far with the my bad leg injury. So, um, but yeah, I I I think I talked to somebody. Um, remember would you remember any of the conversation as far as what they were looking for?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0285",
+    "speaker": "suspect",
+    "text": "Couldn't say. I mean, they may have told me. I said, \"Hey, you know, I went to school with him. Um, I either they either somebody called me or I saw the flyer. I may have seen the flyer at that point and I called up. If if someone's name was on the flyer, I may have called to speak to them.\" I said, \"Hey, if there's anything I can do, you know, um, call me. This is where I work. You know, I went to uh, you know, uh, school with them.\" Um, couldn't say I couldn't tell you who it was.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0286",
+    "speaker": "detective",
+    "text": "But you do remember that that someone you think reached out to you.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0287",
+    "speaker": "suspect",
+    "text": " You mean a detective?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0288",
+    "speaker": "suspect",
+    "text": "You know I I remember talking to somebody but I'm thinking it was a man. I'm sure there's probably more men back then. Um so again that's I mean that's really all I can remember about that.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0289",
+    "speaker": "detective",
+    "text": "Yeah. Let me get back uh to as far as when you said that uh John was calling you to to see you and during that time you felt that he was was felt he was either seeing her was he engaged or married. Did did you know?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0290",
+    "speaker": "suspect",
+    "text": " you know I don't know. Uhhuh. Um would he ever?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0291",
+    "speaker": "detective",
+    "text": "During that time that you were seeing John, uh, you know, was he acting kind of, you know, kind of squirrely or kind of sneaking around when he'd hook up with you or anything like that?",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0292",
+    "speaker": "detective",
+    "text": "Well, let's see from what early I met him in 78. No, I I met him in school. I started UCLA in 78. Um so you know him well during that period of time.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0293",
+    "speaker": "detective",
+    "text": "Yeah. I mean was he acting squirrely?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0294",
+    "speaker": "detective",
+    "text": "let me ask you after he hooked up with uh if he was living on Rosco or wherever else he was living, right?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0295",
+    "speaker": "suspect",
+    "text": " You know I don't even remember where he was living then.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0296",
+    "speaker": "detective",
+    "text": "Well, after he hooked up with uh with Sherry, do you know uh where they were living?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0297",
+    "speaker": "suspect",
+    "text": "No, you asked me that already. Uhhuh. And I said, well, obviously they were living in Van I division.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0298",
+    "speaker": "suspect",
+    "text": "Yeah. Um I may have known. I mean I you know again I you know did he ever give me the address? Maybe you know I don't remember.  ",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0299",
+    "speaker": "detective",
+    "text": "the only reason I'm asking you again is because as we've been talking, I know some stuff has come to you cuz you're like, \"Oh, see, you know, so that's why I'm asking if you ever been to the house. \"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0300",
+    "speaker": "suspect",
+    "text": "And when you said Van Ice vision, you know, I'm just I'm sure he could have told me. I mean, he could have told me. He could have told me where he lived.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0301",
+    "speaker": "detective",
+    "text": "Um, do you ever have gone there?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0302",
+    "speaker": "suspect",
+    "text": "I don't think I've ever gone there. That's what I'm saying. I don't I don't want to say no, I've never gone there and then you say, \"Oh, I was at a party. \" I cuz I I I don't, you know, I don't think so.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0303",
+    "speaker": "suspect",
+    "text": "Yeah. Um, like I said, we've got these friends. We have different We have parties. Um, my house, their house. I I just don't think John ever came to again, you know, at one point because we we knew people from school together. I knew different people. He knew different people. I knew people that he knew from his work um you know that lived in the valley.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0304",
+    "speaker": "detective",
+    "text": "Um you know, so as far as for social events or anything, I mean it's I mean you're not sure if you ever been to the house cuz But it's safe to say that would have been the only time like for something social.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0305",
+    "speaker": "suspect",
+    "text": "Yeah. If I went there for something social. Yeah. I mean, because I know you you went to talk to her at at the hospital uh regarding this issue with John to, you know, kind of like, hey, you know, what's going to happen here with this thing?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0306",
+    "speaker": "detective",
+    "text": "But would this ever have followed up to her house when you went to talk to her to say, hey, you know what?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0307",
+    "speaker": "suspect",
+    "text": "I I don't even know that I knew where they lived. I You know, that's what I'm saying. I don't If I knew where they lived and I'd been there, if it was for something social, I' I would I'm I'm And I can't see how many times I I saw her face to face.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0308",
+    "speaker": "suspect",
+    "text": "You know, he lived on Rosco. Did I ever see her there? I don't know. I mean, I may have seen her at his apartment on Rosco. Mhm. I may have met her there, you know.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0309",
+    "speaker": "detective",
+    "text": "I mean, but you didn't have any issues with her, right?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0310",
+    "speaker": "suspect",
+    "text": "No, I mean, you know, obviously if he was dating me and dating her, I probably said, \"Hey, pick.\" Or something, you know, you know, back then. Um, I can't say that we ever screamed or Yeah. You know, it's I mean, he was a pretty mellow guy, you know. Um, I think I was pretty mellow. I I don't I don't think we had some big huge blow up to say you know why we stopped dating or you know and I even think that when I was dating him I was probably like I said I was probably going out with other guys and he was probably going out with other girls you know I don't know I mean would you remember if she snapped on you and just like hey man it's my man you know you get leave him alone you know blah blah blah that kind of stuff you know then would you remember an incident like that I mean cuz that would be like what Well, you know, and maybe that happened. I mean, gosh, I you know, it's been so long ago. I, you know, I just I mean, that's not ringing a bell. Mhm.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0311",
+    "speaker": "suspect",
+    "text": "It's like, like I said, this stuff's been so long ago. Um you know, I'm sure as soon as I walk out of here, I'll go, \"Oh, shoot. 25 things I'll remember.\"",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0312",
+    "speaker": "detective",
+    "text": "Um you know, but you'll call us or I mean, you'll just come over to our desk and tell us. ",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0313",
+    "speaker": "suspect",
+    "text": "I mean, I don't know what else you need to know. Like I said, you know, we we knew friends together. A lot of the friends that, you know, that we socialized in the dorms, I would say, I mean, there was a group of us that um we were all really close. I mean, even this one guy, I was thinking of, you know, um Diana Basta. We were all really close. I haven't talked to her in a million years.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0314",
+    "speaker": "suspect",
+    "text": "Um Diana Basta being a friend of you and John's or Yeah, we all lived on the dorms on the dorms together. I don't know if she lived on the same we I'm trying to think. I think I know John lived on our floor because his roommate was Dave Newman. Dave Newman now is a big huge big shot whatever movie producer director something I don't know.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0315",
+    "speaker": "suspect",
+    "text": "Um and that was John's roommate. Yeah. And then the guys that lived across from me um Jim Jascal and Roy Sakaboo Sakaboo. Something like that. Um they lived across from me. Um Diana Basta. I don't know if she lived on our floor. Maybe she was the RA. Um Diane Sherman. Um cuz I still remain friends with Diane Sherman. Um not that I'm not friends with the other people. I just don't see them.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0316",
+    "speaker": "suspect",
+    "text": "Um a girl named Smeita. Um Sally, Kathleen, you know. So we we were all on the floor. I mean, some of them were athletes, some of them weren't. You know, I said John played basketball, his brother played basketball, I played basketball at UCLA for two years.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0317",
+    "speaker": "suspect",
+    "text": "Um, one of the girls swam on the team, one was on the crew team. So, we all did stuff together. Um, and then I'd say after we all graduated, um, we went to weddings, you know, I went to weddings.",
+    "phase": 1
+  },
+  {
+    "segment_id": "seg_0318",
+    "speaker": "detective",
+    "text": "Um, uh, but Sherry wasn't part of this circle. ",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0319",
+    "speaker": "suspect",
+    "text": "No, I don't even know how he how he met her. I don't even know where I mean, I don't know where he met her from. I don't even know. He told me where he met her from. I mean, he may have told me. I, you know, that's not ringing a bell.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0320",
+    "speaker": "suspect",
+    "text": "Um, and there was lots, I mean, you know, there's just there was other people that knew other people, um, you know, that were friends of everybody's um, you know, um, I mean, I don't know what else to tell you.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0321",
+    "speaker": "detective",
+    "text": "Well, one of the concerns I had is looking at some of the notes is uh some of Sherry's friends said that you and her were having a problem because of the John situation.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0322",
+    "speaker": "suspect",
+    "text": "Well, number one, I don't know who her friends are. Um cuz again, I don't I don't recall if he did tell me where he met her. I don't even know who these friends are.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0323",
+    "speaker": "suspect",
+    "text": "a problem. Like I said, if I spoke to her, I mean, I'll go on as far as a limb and I don't even want to say I spoke to her five times because that's probably not even true. I can't even remember.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0324",
+    "speaker": "suspect",
+    "text": "Um, again, did I meet him at her plate when he, you know, he lived on Rosco for I think quite a while, but I couldn't tell you how long he lived on Rosco. And the only reason why I remember the place now is because it's like a huge dope dope place now where they, you know, it may have been back then, but you know, maybe we'd have known back then. Um, I co",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0325",
+    "speaker": "suspect",
+    "text": "I could have, you know, you know, I don't even know that I met any of their friends. I I don't I I I can't say that. I don't know that that's a true statement.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0326",
+    "speaker": "detective",
+    "text": "Well, that's what I'm reading is that you guys had problems with each other and words are being exchanged and it's all relating to John.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0327",
+    "speaker": "suspect",
+    "text": "You know what? I I I I just I can't say.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0328",
+    "speaker": "detective",
+    "text": "You can't say?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0329",
+    "speaker": "suspect",
+    "text": "No. I That doesn't even ring a bell. I mean I mean it seemed like Yeah.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0330",
+    "speaker": "detective",
+    "text": " You would recall something if somebody's going off on you, right?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0331",
+    "speaker": "suspect",
+    "text": "I would think. I mean I would think I would think.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0332",
+    "speaker": "detective",
+    "text": "Yeah. cuz it seems like your relationship with John was kind of I mean you've known each other for a lot of years.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0333",
+    "speaker": "suspect",
+    "text": "Yeah. It was just kind of it was like but it doesn't seem to me from what you tell me I mean we were never engaged. I mean it wasn't like we were planning to get married. Um you know it was like it it was I don't know how to describe it.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0334",
+    "speaker": "detective",
+    "text": "I mean, would you say there wasn't a lot of drama in this relationship?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0335",
+    "speaker": "suspect",
+    "text": "Oh, no. I don't think there was drama.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0336",
+    "speaker": "detective",
+    "text": "Okay. Yeah. I mean, that's why I'm asking as far as what the friends are saying in regards to this, you know, the problems that they're saying you were having with with Sherry. I mean, it seems like the relationship is just going on even plain.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0337",
+    "speaker": "suspect",
+    "text": "That just I I that I don't have a recollection of that at all. No. No.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0338",
+    "speaker": "detective",
+    "text": "And cuz from what you're telling me is when you guys met at the hospital, uh I mean you guys talked but it wasn't from what you recall confrontational think from either side.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0339",
+    "speaker": "suspect",
+    "text": "No, I mean I'm trying to you know turn my memory back, you know, and I'm trying I can't even can't even picture the you know picture the the conversation. I mean I can't even picture the conversation.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0340",
+    "speaker": "detective",
+    "text": "Well, let me ask you. I mean, at the hospital, it never got to the point where people are going, \"Hey, hey, you know, go to everybody go to your own culinary type of thing.\"",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0341",
+    "speaker": "suspect",
+    "text": "I don't think so. Nothing like that. I don't think so.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0342",
+    "speaker": "suspect",
+    "text": "I mean, I really don't. I mean, if you, you know, if you say people said that, that's not ringing a bell to me at all. I mean, it's not I mean, that that's not ringing a bell.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0343",
+    "speaker": "detective",
+    "text": "Was there ever a time when you and Sher were talking and John had to maybe like get you guys relax, you know, or anything like that?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0344",
+    "speaker": "suspect",
+    "text": "I think so. about, you know, ever going to a house and having a dispute like that. You know, I'm just if I met her ever at his apartment, maybe I mean, we could have met I could have met at her apartment.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0345",
+    "speaker": "suspect",
+    "text": "I'm thinking that the hospital thing that sounds familiar that I met her there. I just can't say that I've ever again, was I there with other people? I don't I I it I don't know.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0346",
+    "speaker": "suspect",
+    "text": "Um I don't think I ever met her there or him there. Um meaning one or the other. I don't think so. I really I just I can't I don't think so.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0347",
+    "speaker": "detective",
+    "text": "Cuz I mean I know the way my wife is at our house, she wouldn't want my own girlfriends there, you know. So, I don't know if maybe she had the same mentality towards you. If as far as you ever being there or being welcome there, you know, because it's you know what, if somebody said I was there when they were there, then that's possible, but I just I I don't recall.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0348",
+    "speaker": "suspect",
+    "text": "I mean, I don't think so. I don't I It's not sounding familiar.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0349",
+    "speaker": "detective",
+    "text": "Yeah. Cuz I guess basically what I'm asking is, you know, were you ever welcomed to the house? Like, you know, hey Oh, come over.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0350",
+    "speaker": "detective",
+    "text": "Yeah, come on over. We're having a barbecue, you know, a dinner party. Christmas party or whatever.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0351",
+    "speaker": "suspect",
+    "text": "I don't know. I'm just trying to think, you know, like I said, because there was so many of us that the two Dian's U, Jim, Jascal, Roy, um, Smeita, this gal, Smeita, another friend of ours, Beth, I she pass, it seems like everybody I know pass is passing away.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0352",
+    "speaker": "suspect",
+    "text": "Um, she passed away. She was a child diabetic and and got very ill. Um, we would all socialize.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0353",
+    "speaker": "suspect",
+    "text": "Um, like I said, I don't think John ever it's hard. I don't want to say he never socialized with us.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0354",
+    "speaker": "suspect",
+    "text": "Um, you know, it it's been I I'd have to go almost go back and look at pictures because I take pictures. I mean, I usually when I have I go to functions, I have 10,000 pictures.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0355",
+    "speaker": "suspect",
+    "text": "Okay. I'm a picture nut. Let me ask when you were seeing John, would you I take it he would pick you up in his car. you go in her, you know, your car, things of that nature when you guys would go out.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0356",
+    "speaker": "detective",
+    "text": " do you remember what he what he drove?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0357",
+    "speaker": "suspect",
+    "text": "Well, I know at one time he drove either a 240 or 260Z.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0358",
+    "speaker": "detective",
+    "text": "Any other cars that stand out in your mind?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0359",
+    "speaker": "suspect",
+    "text": "I don't know how long he drove that 240 or 260Z for.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0360",
+    "speaker": "suspect",
+    "text": "Um, and the only reason I say that is cuz I think I may have a picture of it um with him in it.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0361",
+    "speaker": "detective",
+    "text": "Um, what kind of car did you have back then?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0362",
+    "speaker": "suspect",
+    "text": "Let's see. What year? Or are you like one of those young cops that like, \"Oh, I got a paycheck and bought a new car.\"",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0363",
+    "speaker": "detective",
+    "text": "No, no, no. I've only had like a few cars in my whole life.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0364",
+    "speaker": "suspect",
+    "text": "So, what'd you have when you came on the job?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0365",
+    "speaker": "suspect",
+    "text": "Okay. Well, my first car was a 68 Chevel.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0366",
+    "speaker": "suspect",
+    "text": "68 Chevel. And then I had a Toyota some kind of a Toyota. Mhm. Um hatchback, but I forget what the name of it was. Um like a Corolla or Tursel or Tursel. Something like that. Tel. Yeah. And then I had my truck",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0367",
+    "speaker": "detective",
+    "text": "Do you ever have any problems with your cars? Just anything in general. Car wrecks. Anything stolen?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0368",
+    "speaker": "suspect",
+    "text": "Yeah. No, my car has never been stolen. Oh, no. Crashed, hit and run. Um um hit I mean my tcel was hit and run. Again, I got I got pictures of the hit and runs. Um and I don't think any of my cars had ever been stolen. No, my cars haven't been stolen, broken into. Um, none of that, huh?",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0369",
+    "speaker": "detective",
+    "text": "Oh, yeah. They My cars have been broken into. Um, you know, but no cars have ever been stolen. Mhm. How long? Well, when Tell me about this uh car getting broken into.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0370",
+    "speaker": "suspect",
+    "text": "Well, my car has been broken into several times.",
+    "phase": 3
+  },
+  {
+    "segment_id": "seg_0371",
+    "speaker": "detective",
+    "text": "Oh, really? Did you ever lose anything or?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0372",
+    "speaker": "suspect",
+    "text": "Yeah, now that you mention it, let's see. I had a gun that was stolen. Mhm. Um, I had other stuff that was stolen.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0373",
+    "speaker": "detective",
+    "text": " Not a duty gun, was it?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0374",
+    "speaker": "suspect",
+    "text": "No.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0375",
+    "speaker": "detective",
+    "text": " Oh, that's good. Um, has it ever recovered?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0376",
+    "speaker": "suspect",
+    "text": "I don't No, no, I don't think so. Not that I know of. Never been notified.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0377",
+    "speaker": "detective",
+    "text": "Car's been broken into. Where did that happen? when your gun was taken?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0378",
+    "speaker": "suspect",
+    "text": "Trying to remember. I'm sure you guys must know. Um cuz my car was broken into in Ventura. I think in Santa Monica. I have relatives that live in Santa Monica and Venice.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0379",
+    "speaker": "detective",
+    "text": "Um who lives there?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0380",
+    "speaker": "suspect",
+    "text": "My uncle. Well, I I had several uncles. Um, yeah, could have been Santa Monica. Um, Venice. My My car's been broken into in Ventura before.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0381",
+    "speaker": "detective",
+    "text": "So, is your mom still around?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0382",
+    "speaker": "suspect",
+    "text": "Mhm. Yeah.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0383",
+    "speaker": "detective",
+    "text": "Your dad?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0384",
+    "speaker": "suspect",
+    "text": "Yeah. But I don't really have much of a relationship with my dad. So, I couldn't tell you where he lives if you're if you want to know.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0385",
+    "speaker": "detective",
+    "text": "Oh, really?",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0386",
+    "speaker": "suspect",
+    "text": "No.",
+    "phase": 2
+  },
+  {
+    "segment_id": "seg_0387",
+    "speaker": "detective",
+    "text": "Yeah, I couldn't tell you. Well, like I said, as we were looking at the case and you know, we had read the notes as far as from uh Sherry's friend saying you you guys had problems or words, they got heated. You know, the reason we're asking you is they had mentioned that an incident at her house. And this is at her house during the period of time that they're married.  Work had occurred and they've also told us that an incident at her house occurred.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0388",
+    "speaker": "suspect",
+    "text": "That's just not sounding familiar at all. I mean, I you know what I that's just not sound I again if someone says that I was at her house and I had an incident with her, you know, I that just doesn't sound I I you know, was John there? Did John say this happened?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0389",
+    "speaker": "detective",
+    "text": "And other people were there.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0390",
+    "speaker": "suspect",
+    "text": "I I just don't recall. I mean, it just doesn't sound, you know, familiar. ",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0391",
+    "speaker": "detective",
+    "text": "And this is an incident where you showed up. You weren't supposed to show up and things got heated at his house?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0392",
+    "speaker": "detective",
+    "text": "Yeah. That I you know I that just doesn't sound familiar. I mean I you know it's not sounding familiar. So not at all.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0393",
+    "speaker": "suspect",
+    "text": "Now you're saying not familiar because it's just don't you remember or it's just you know what I would have then I'd have to say I don't remember because I don't remember I that doesn't sound familiar.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0394",
+    "speaker": "detective",
+    "text": "I I mean would you remember something like that? Well I would think but some sort of drama involving you know the other woman type of thing. Did you ever fight with her?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0395",
+    "speaker": "suspect",
+    "text": "You mean like we fought?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0396",
+    "speaker": "detective",
+    "text": "Yeah. Did you ever duke it out with her?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0397",
+    "speaker": "suspect",
+    "text": "No, I don't think so. I mean you'd remember that, right? That would be pretty. Yeah, I would think so.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0398",
+    "speaker": "detective",
+    "text": "Oh, I mean pretty specific.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0399",
+    "speaker": "suspect",
+    "text": "Yeah, like I said, I mean obviously I you know I mean it just doesn't sound familiar. I mean I mean what are they saying? So I I I fought with her so so now I mean I I get getting the jump or the leap. Excuse me. I haven't eaten.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0400",
+    "speaker": "suspect",
+    "text": "Um they're saying okay I fought with her so I must have killed her. I mean come on. I mean, that's you know, I don't even know who these people are. I I can't even say I met any of these people. I mean, that's it's insane.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0401",
+    "speaker": "suspect",
+    "text": "I if it happened, I honestly don't remember it. That's all I can tell you.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0402",
+    "speaker": "detective",
+    "text": " I mean, would it be something you would remember? I mean, because it's I don't know if any other intense incidents in your life that have occurred, I mean, you'd recall those, right?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0403",
+    "speaker": "detective",
+    "text": "I mean, well, like a use of force at work or car crash, something you're involved in, you'd be like, \"Yeah, I remember. \"",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0404",
+    "speaker": "detective",
+    "text": "You would think I would remember. I mean, I would think if it was something that crazy.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0405",
+    "speaker": "suspect",
+    "text": "I mean, I I can't say you say how many fights have you gotten into, you know, in your life, you know?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0406",
+    "speaker": "detective",
+    "text": "I mean, a few at work.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0407",
+    "speaker": "suspect",
+    "text": "Well, fights at work are kind of different cuz we've all had uses of force or whatever, but I mean, I don't even have even a lot of those. I mean, but if you're if you're actually, you know, I mean, I've played like if if Dan and I got mad at each other and we threw blows in the squad room, I mean, 20 years later, I would remember it.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0408",
+    "speaker": "suspect",
+    "text": "I mean, I would think I would remember it, but that's that's what I'm saying. That's not sounding familiar to me at all.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0409",
+    "speaker": "detective",
+    "text": "Let me ask you. I mean, throughout your life, you know, would you remember the number of fights you've been involved in? And I don't mean kind of like a bump or something, just a a physical fight where you everybody's hitting each other, scratching, pulling, you know, whatever.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0410",
+    "speaker": "suspect",
+    "text": "Maybe. I mean, I can't say I've been in a lot. You know, I played sports. Yeah. you know, you get into scuffles there and um and you recall some of those, right?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0411",
+    "speaker": "suspect",
+    "text": "I mean, just Yeah, I can recall some of them. Yeah. Games get in tabs. But like I said, this you saying this this is just not ringing a bell. I mean, but you know, I don't know what to tell you. It's It's just That's just not ringing a bell to me. It' be something I would think I would remember.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0412",
+    "speaker": "detective",
+    "text": "I mean, I'm If you're in this, too. If you're in this other girl's house and words are exchanged, I mean, you figure you'd recall.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0413",
+    "speaker": "detective",
+    "text": "I would think, especially if it got physical, right?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0414",
+    "speaker": "detective",
+    "text": "Well, I would think. And it's relating to, you know, a guy that you were dating, but she's dating now, you know, and it's just like a whole love triangle type of thing. I mean, you figure you'd remember that, right?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0415",
+    "speaker": "detective",
+    "text": "Well, I would think. So, I mean, what does she tell you?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0416",
+    "speaker": "detective",
+    "text": "Yeah. No, because I'm I mean I'm trying to I'm looking at the notes and these people are kind of I mean they're pointing the finger at you.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0417",
+    "speaker": "suspect",
+    "text": "Well, and I mean that's not ringing a bell to me. So, you know, I don't know. You know, it's I don't know what to tell you. I mean, that just sounds crazy to me.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0418",
+    "speaker": "detective",
+    "text": "Yeah. So, you offh hand you don't recall ever going into her house and having words and physically, you know?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0419",
+    "speaker": "detective",
+    "text": "No. attacking her, her attacking you.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0420",
+    "speaker": "suspect",
+    "text": "No, nothing like that. No, I mean that's No, nothing. No, no, not at all.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0421",
+    "speaker": "detective",
+    "text": "Okay. Well, on some of the uh on this case, you know, this is it occurred in ' 86, right? Uh detectives processed the scene, things of that nature. Uh they did fingerprints and all that stuff. You know, well, you know, the standard stuff. I mean, you been doing this longer than I have.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0422",
+    "speaker": "suspect",
+    "text": "Uh well I don't know about that. I got 26 years on going on 26 19. So but you know as they processed everything uh they did the best they could at that time and they looked at a lot of a lot of people and different things in this case and you're right. I mean if you guys are claiming that I'm a suspect then you know I I got a problem with you know with that.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0423",
+    "speaker": "suspect",
+    "text": "Okay. Okay. So you know if you're if you're doing this as an interrogation you're saying hey I'm a suspect. Well, now I got a problem with, you know, now you're accusing me of this. Is that what you're Is that what you're saying?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0424",
+    "speaker": "detective",
+    "text": "We're trying to figure out what happened, Stephanie.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0425",
+    "speaker": "suspect",
+    "text": "Well, I'm I was, you know, I'm just saying, you know, would I need to get a lawyer if you're accusing me of, you know, you don't have to I mean, you know, you're here of your own free will.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0426",
+    "speaker": "detective",
+    "text": "I mean, well, I know, but you know, you're not you're not under arrest. You can walk out when you can leave whenever you like.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0427",
+    "speaker": "suspect",
+    "text": "Well, you know, I I'm trying to give you some background of, you know, how I knew him and now you're telling me that some somebody's saying that we had this big old fight and I don't even know what you're talking about.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0428",
+    "speaker": "suspect",
+    "text": "Um, you know, and I don't want to, you know, get in trouble for something that I didn't even do or you're saying I did something.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0429",
+    "speaker": "suspect",
+    "text": "Okay, we understand. I mean, how would you guys like it if the tables were turned on you?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0430",
+    "speaker": "detective",
+    "text": "I understand. No, that's why we're telling you. I mean, you're free to go whenever you want. If if this makes you uncomfortable and you want to now you're starting to make me uncomfortable.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0431",
+    "speaker": "detective",
+    "text": "The thing is I mean detectives did what they could at that time on the crime scene.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0432",
+    "speaker": "suspect",
+    "text": "Okay. And the burglary thing you're talking about that is an angle that they looked at.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0433",
+    "speaker": "detective",
+    "text": "I go but now we're looking at everything else on the case cuz nobody was ever arrested on the case.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0434",
+    "speaker": "suspect",
+    "text": "I I don't know that or not.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0435",
+    "speaker": "detective",
+    "text": "Okay. Now what we'd like to do is obviously you know about all the DNA stuff and things of the nature that you know gets done on cases nowadays. You know, if we asked you for a DNA swab, would you be willing to give us one?",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0436",
+    "speaker": "suspect",
+    "text": "Maybe because now now now I'm thinking I probably need to talk to a lawyer.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0437",
+    "speaker": "detective",
+    "text": "Okay. I mean, well, I cuz I know how this stuff works.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0438",
+    "speaker": "suspect",
+    "text": "Okay, don't get me wrong. You're right. have been doing this a long time and and I wish I had been recording this because because now it sounds like, you know, there's, you know, you're selling these people saying I'm a fighting with her and now it sounds like you're trying to, you know, I've been doing this a long time.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0439",
+    "speaker": "detective",
+    "text": "Yeah, we know.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0440",
+    "speaker": "suspect",
+    "text": "Okay. And and now it almost sounds like you're trying to pin something on me now. I I got that sense.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0441",
+    "speaker": "detective",
+    "text": "Well, what it gets to on these on these cases, and you know it as well as I do, our job is to identify and eliminate substance.",
+    "phase": 4
+  },
+  {
+    "segment_id": "seg_0442",
+    "speaker": "suspect",
+    "text": "I can't believe this.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0443",
+    "speaker": "detective",
+    "text": "So, if we ask you to the point to give us a DNA sample, a bugal swab, so we can identify or eliminate you, would you be willing to do that?",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0444",
+    "speaker": "suspect",
+    "text": "Maybe. Cuz I know this. I I I I That's where we're at, too. I mean, because right now from looking at the",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0445",
+    "speaker": "detective",
+    "text": "evidence, it's, you know, it's possible we may have some DNA at the location. That's great. And we're going to do what we can to try to put this thing together. and your name's in the book. These people are pointing at you for whatever reason. I don't know why. That's just crazy. I mean, that's just that's absolutely crazy. And it would be irresponsible on our part not to look at it.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0446",
+    "speaker": "suspect",
+    "text": "I know. You guys have to do your job. And I guess I'm going to have to contact somebody. So, that's fair. I mean, cuz I know how this stuff works. I mean, I I I I just can't believe it.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0447",
+    "speaker": "detective",
+    "text": "That's I mean, we we understand that. I mean, if we were in your position, I mean, we would feel the same way.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0448",
+    "speaker": "suspect",
+    "text": "I just can't even believe it. I mean, it's just I mean, I'm shocked. I'm really shocked that somebody would blame me saying that I did this. I mean, we had a fight and so I went and killed her. I mean, come on.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0449",
+    "speaker": "detective",
+    "text": "Well, that's okay. All right. Well, thanks for giving me the courtesy. I wish it Thanks for your time.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0450",
+    "speaker": "detective",
+    "text": "Yeah. Thank you. All right, Stephanie. Take care.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0451",
+    "speaker": "suspect",
+    "text": "All right. Crazy. Thank you. That is crazy. I am. This is absolutely crazy. I want to see stuff. This is insane.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0452",
+    "speaker": "detective",
+    "text": "Okay, give me one sec.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0453",
+    "speaker": "detective",
+    "text": "Okay, Stephanie, you know you have the right to remain silent. Do you understand?",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0454",
+    "speaker": "suspect",
+    "text": "Yes.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0455",
+    "speaker": "detective",
+    "text": "Anything you say may be used against you in court. Do you understand?",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0456",
+    "speaker": "suspect",
+    "text": "Yes.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0457",
+    "speaker": "detective",
+    "text": "You have the right to the presence of an attorney before and during any question. Do you understand?",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0458",
+    "speaker": "suspect",
+    "text": "Yes.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0459",
+    "speaker": "detective",
+    "text": "If you cannot afford an attorney, one will be appointed for you free of charge before any questioning if you want. Do you understand?",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0460",
+    "speaker": "suspect",
+    "text": "Yes.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0461",
+    "speaker": "detective",
+    "text": "You want to talk to us right now?",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0462",
+    "speaker": "suspect",
+    "text": "No.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0463",
+    "speaker": "detective",
+    "text": "Okay. All right.",
+    "phase": 5
+  },
+  {
+    "segment_id": "seg_0464",
+    "speaker": "suspect",
+    "text": "Okay. This is crazy. This is abs like I'm like in shock. I'm totally in shock.",
+    "phase": 5
+  }
+]
